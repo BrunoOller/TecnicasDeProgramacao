@@ -1,0 +1,14 @@
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\bin\Debug\net9.0\NovoProjeto.exe
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\bin\Debug\net9.0\NovoProjeto.deps.json
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\bin\Debug\net9.0\NovoProjeto.runtimeconfig.json
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\bin\Debug\net9.0\NovoProjeto.dll
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\bin\Debug\net9.0\NovoProjeto.pdb
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\NovoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\NovoProjeto.AssemblyInfoInputs.cache
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\NovoProjeto.AssemblyInfo.cs
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\NovoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\NovoProjeto.dll
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\refint\NovoProjeto.dll
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\NovoProjeto.pdb
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\NovoProjeto.genruntimeconfig.cache
+C:\Users\0201392511015\Desktop\projeto\NovoProjeto\obj\Debug\net9.0\ref\NovoProjeto.dll
