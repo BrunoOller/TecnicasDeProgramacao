@@ -1,0 +1,15 @@
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.exe
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.deps.json
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.runtimeconfig.json
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.dll
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.pdb
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.AssemblyInfo.cs
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.sourcelink.json
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.dll
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\refint\primeiroProjeto.dll
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.pdb
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.genruntimeconfig.cache
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\primeiroProjeto\obj\Debug\net9.0\ref\primeiroProjeto.dll
