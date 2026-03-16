@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Interface\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34DFECA4-B3AD-4C1D-AD09-B76BB5A21541}|ICollection\\ICollection.csproj|c:\\users\\0201392511015\\desktop\\tecnicasdeprogramacao\\tp2\\interface\\icollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DFECA4-B3AD-4C1D-AD09-B76BB5A21541}|ICollection\\ICollection.csproj|solutionrelative:icollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACDECA5-C85E-4F62-B352-ACB49F70FAD2}|IEnumerable\\IEnumerable.csproj|c:\\users\\0201392511015\\desktop\\tecnicasdeprogramacao\\tp2\\interface\\ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACDECA5-C85E-4F62-B352-ACB49F70FAD2}|IEnumerable\\IEnumerable.csproj|solutionrelative:ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FFBA12A-FA98-418A-AE5C-268AD92AE991}|Interface\\Interface.csproj|c:\\users\\0201392511015\\desktop\\tecnicasdeprogramacao\\tp2\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FFBA12A-FA98-418A-AE5C-268AD92AE991}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,10 +28,36 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Interface\\ICollection\\Program.cs",
+              "RelativeDocumentMoniker": "ICollection\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Interface\\ICollection\\Program.cs*",
+              "RelativeToolTip": "ICollection\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:12:10.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Interface\\IEnumerable\\Program.cs",
+              "RelativeDocumentMoniker": "IEnumerable\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Interface\\IEnumerable\\Program.cs",
+              "RelativeToolTip": "IEnumerable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:00:52.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Interface\\Interface\\Program.cs",
               "RelativeDocumentMoniker": "Interface\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Interface\\Interface\\Program.cs*",
-              "RelativeToolTip": "Interface\\Program.cs*",
+              "ToolTip": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Interface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T13:47:45.703Z",

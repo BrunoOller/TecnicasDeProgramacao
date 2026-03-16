@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sincrono", "Sincrono\Sincrono.csproj", "{195D5A96-1886-45A9-BC99-CB9F8C7BA947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assincrono", "Assincrono\Assincrono.csproj", "{84B4043A-B7A9-40D7-ADB7-1419D34DF0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195D5A96-1886-45A9-BC99-CB9F8C7BA947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195D5A96-1886-45A9-BC99-CB9F8C7BA947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195D5A96-1886-45A9-BC99-CB9F8C7BA947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195D5A96-1886-45A9-BC99-CB9F8C7BA947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B4043A-B7A9-40D7-ADB7-1419D34DF0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B4043A-B7A9-40D7-ADB7-1419D34DF0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B4043A-B7A9-40D7-ADB7-1419D34DF0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B4043A-B7A9-40D7-ADB7-1419D34DF0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
