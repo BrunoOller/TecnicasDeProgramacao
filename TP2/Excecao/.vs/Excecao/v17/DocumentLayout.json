@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Excecao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E562905-D143-4FED-8F70-75A68E485DB6}|Personalizada\\Personalizada.csproj|c:\\users\\0201392511015\\desktop\\tecnicasdeprogramacao\\tp2\\excecao\\personalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E562905-D143-4FED-8F70-75A68E485DB6}|Personalizada\\Personalizada.csproj|solutionrelative:personalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1506C3-6A25-4E23-B98E-8BCF9327FC8E}|Throw\\Throw.csproj|c:\\users\\0201392511015\\desktop\\tecnicasdeprogramacao\\tp2\\excecao\\throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1506C3-6A25-4E23-B98E-8BCF9327FC8E}|Throw\\Throw.csproj|solutionrelative:throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203762F7-FC29-46D0-A52E-C258A32874BB}|Excecao\\Excecao.csproj|c:\\users\\0201392511015\\desktop\\tecnicasdeprogramacao\\tp2\\excecao\\excecao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203762F7-FC29-46D0-A52E-C258A32874BB}|Excecao\\Excecao.csproj|solutionrelative:excecao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Excecao\\Personalizada\\Program.cs",
+              "RelativeDocumentMoniker": "Personalizada\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Excecao\\Personalizada\\Program.cs",
+              "RelativeToolTip": "Personalizada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:36:07.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Excecao\\Throw\\Program.cs",
+              "RelativeDocumentMoniker": "Throw\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Excecao\\Throw\\Program.cs",
+              "RelativeToolTip": "Throw\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:13:42.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Excecao\\Excecao\\Program.cs",
+              "RelativeDocumentMoniker": "Excecao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511015\\Desktop\\TecnicasDeProgramacao\\TP2\\Excecao\\Excecao\\Program.cs",
+              "RelativeToolTip": "Excecao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:49:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
