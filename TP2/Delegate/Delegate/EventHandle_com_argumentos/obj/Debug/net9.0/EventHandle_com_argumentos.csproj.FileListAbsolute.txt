@@ -1,0 +1,15 @@
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\EventHandle_com_argumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\EventHandle_com_argumentos.AssemblyInfoInputs.cache
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\EventHandle_com_argumentos.AssemblyInfo.cs
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\EventHandle_com_argumentos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\EventHandle_com_argumentos.sourcelink.json
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\bin\Debug\net9.0\EventHandle_com_argumentos.exe
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\bin\Debug\net9.0\EventHandle_com_argumentos.deps.json
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\bin\Debug\net9.0\EventHandle_com_argumentos.runtimeconfig.json
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\bin\Debug\net9.0\EventHandle_com_argumentos.dll
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\bin\Debug\net9.0\EventHandle_com_argumentos.pdb
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\EventHandle_com_argumentos.dll
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\refint\EventHandle_com_argumentos.dll
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\EventHandle_com_argumentos.pdb
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\EventHandle_com_argumentos.genruntimeconfig.cache
+C:\Users\0201392511015\Desktop\TecnicasDeProgramacao\TP2\Delegate\Delegate\EventHandle_com_argumentos\obj\Debug\net9.0\ref\EventHandle_com_argumentos.dll
