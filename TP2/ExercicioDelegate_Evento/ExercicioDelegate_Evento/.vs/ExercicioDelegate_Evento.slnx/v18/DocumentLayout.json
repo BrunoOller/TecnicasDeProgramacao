@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4EF8E7-3C1B-433D-8F75-4ADF42177A9A}|Exercicio1Delegate_Evento\\Exercicio1Delegate_Evento.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\exerciciodelegate_evento\\exerciciodelegate_evento\\exercicio1delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4EF8E7-3C1B-433D-8F75-4ADF42177A9A}|Exercicio1Delegate_Evento\\Exercicio1Delegate_Evento.csproj|solutionrelative:exercicio1delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02853089-4CD7-4050-9C14-5278BE77356C}|Exercicio3Delegate_Evento\\Exercicio3Delegate_Evento.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\exerciciodelegate_evento\\exerciciodelegate_evento\\exercicio3delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02853089-4CD7-4050-9C14-5278BE77356C}|Exercicio3Delegate_Evento\\Exercicio3Delegate_Evento.csproj|solutionrelative:exercicio3delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0874C5B-3EA7-4CAD-B7AF-8E778F9BD537}|Exercicio2Delegate_Evento\\Exercicio2Delegate_Evento.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\exerciciodelegate_evento\\exerciciodelegate_evento\\exercicio2delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0874C5B-3EA7-4CAD-B7AF-8E778F9BD537}|Exercicio2Delegate_Evento\\Exercicio2Delegate_Evento.csproj|solutionrelative:exercicio2delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E981E6-440E-4140-A942-06E3061F2B70}|Exercicio4Delegate_Evento\\Exercicio4Delegate_Evento.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\exerciciodelegate_evento\\exerciciodelegate_evento\\exercicio4delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E981E6-440E-4140-A942-06E3061F2B70}|Exercicio4Delegate_Evento\\Exercicio4Delegate_Evento.csproj|solutionrelative:exercicio4delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\Exercicio4Delegate_Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio4Delegate_Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\Exercicio4Delegate_Evento\\Program.cs",
+              "RelativeToolTip": "Exercicio4Delegate_Evento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:55:41.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\Exercicio3Delegate_Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3Delegate_Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\Exercicio3Delegate_Evento\\Program.cs",
+              "RelativeToolTip": "Exercicio3Delegate_Evento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:55:17.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\Exercicio2Delegate_Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2Delegate_Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\Exercicio2Delegate_Evento\\Program.cs",
+              "RelativeToolTip": "Exercicio2Delegate_Evento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:54:18.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\Exercicio1Delegate_Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1Delegate_Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\ExercicioDelegate_Evento\\ExercicioDelegate_Evento\\Exercicio1Delegate_Evento\\Program.cs",
+              "RelativeToolTip": "Exercicio1Delegate_Evento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:46:41.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
