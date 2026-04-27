@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\bin\Debug\net9.0\Exercicio2Linq.exe
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\bin\Debug\net9.0\Exercicio2Linq.deps.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\bin\Debug\net9.0\Exercicio2Linq.runtimeconfig.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\bin\Debug\net9.0\Exercicio2Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\bin\Debug\net9.0\Exercicio2Linq.pdb
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\Exercicio2Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\Exercicio2Linq.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\Exercicio2Linq.AssemblyInfo.cs
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\Exercicio2Linq.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\Exercicio2Linq.sourcelink.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\Exercicio2Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\refint\Exercicio2Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\Exercicio2Linq.pdb
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\Exercicio2Linq.genruntimeconfig.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio2Linq\obj\Debug\net9.0\ref\Exercicio2Linq.dll

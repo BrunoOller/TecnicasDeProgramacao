@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\bin\Debug\net9.0\Exercicio1Linq.exe
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\bin\Debug\net9.0\Exercicio1Linq.deps.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\bin\Debug\net9.0\Exercicio1Linq.runtimeconfig.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\bin\Debug\net9.0\Exercicio1Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\bin\Debug\net9.0\Exercicio1Linq.pdb
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\Exercicio1Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\Exercicio1Linq.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\Exercicio1Linq.AssemblyInfo.cs
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\Exercicio1Linq.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\Exercicio1Linq.sourcelink.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\Exercicio1Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\refint\Exercicio1Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\Exercicio1Linq.pdb
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\Exercicio1Linq.genruntimeconfig.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio1Linq\obj\Debug\net9.0\ref\Exercicio1Linq.dll

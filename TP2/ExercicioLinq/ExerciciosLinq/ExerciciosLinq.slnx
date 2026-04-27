@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Exercicio1Linq/Exercicio1Linq.csproj" />
+  <Project Path="Exercicio2Linq/Exercicio2Linq.csproj" />
+  <Project Path="Exercicio3Linq/Exercicio3Linq.csproj" />
+  <Project Path="Exercicio4Linq/Exercicio4Linq.csproj" />
+</Solution>

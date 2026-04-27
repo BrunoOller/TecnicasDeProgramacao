@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\bin\Debug\net9.0\Exercicio3Linq.exe
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\bin\Debug\net9.0\Exercicio3Linq.deps.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\bin\Debug\net9.0\Exercicio3Linq.runtimeconfig.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\bin\Debug\net9.0\Exercicio3Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\bin\Debug\net9.0\Exercicio3Linq.pdb
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\Exercicio3Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\Exercicio3Linq.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\Exercicio3Linq.AssemblyInfo.cs
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\Exercicio3Linq.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\Exercicio3Linq.sourcelink.json
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\Exercicio3Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\refint\Exercicio3Linq.dll
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\Exercicio3Linq.pdb
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\Exercicio3Linq.genruntimeconfig.cache
+C:\Users\bruno\Desktop\TecnicasDeProgramacao\TP2\ExercicioLinq\ExerciciosLinq\Exercicio3Linq\obj\Debug\net9.0\ref\Exercicio3Linq.dll
