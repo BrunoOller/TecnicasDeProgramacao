@@ -36,6 +36,43 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TodoApi.Controllers.TarefasController",
+    "Method": "Delete",
+    "RelativePath": "api/Tarefas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoApi.Controllers.TarefasController",
+    "Method": "Put",
+    "RelativePath": "api/Tarefas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "tarefaAtualizada",
+        "Type": "TodoAqui.Models.Tarefa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TodoAqui.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
