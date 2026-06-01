@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "TodoAqui\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\WeatherForecast.cs",
-              "RelativeToolTip": "TodoAqui\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T13:27:10.515Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -63,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TodoAqui\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\WeatherForecast.cs",
+              "RelativeToolTip": "TodoAqui\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:27:10.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TodoAqui\\Controllers\\WeatherForecastController.cs",
@@ -71,12 +71,11 @@
               "RelativeToolTip": "TodoAqui\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T13:13:30.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T13:13:30.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Program.cs",
               "RelativeDocumentMoniker": "TodoAqui\\Program.cs",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "TodoAqui\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T12:27:45.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T12:27:45.352Z"
             },
             {
               "$type": "Document",
@@ -101,20 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "TarefasController.cs",
               "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Controllers\\TarefasController.cs",
               "RelativeDocumentMoniker": "TodoAqui\\Controllers\\TarefasController.cs",
               "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Controllers\\TarefasController.cs",
               "RelativeToolTip": "TodoAqui\\Controllers\\TarefasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T12:27:45.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TarefaRepository.cs",
               "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Repositories\\TarefaRepository.cs",
               "RelativeDocumentMoniker": "TodoAqui\\Repositories\\TarefaRepository.cs",
@@ -122,12 +120,11 @@
               "RelativeToolTip": "TodoAqui\\Repositories\\TarefaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T12:27:45.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T12:27:45.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Tarefa.cs",
               "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Models\\Tarefa.cs",
               "RelativeDocumentMoniker": "TodoAqui\\Models\\Tarefa.cs",
@@ -135,8 +132,7 @@
               "RelativeToolTip": "TodoAqui\\Models\\Tarefa.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T12:27:45.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T12:27:45.525Z"
             }
           ]
         }
